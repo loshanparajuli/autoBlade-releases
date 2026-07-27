@@ -27,7 +27,7 @@ right-click trick, no privacy & security detour.
 
 ## what you need
 
-- an apple silicon mac (m1 or newer) — intel isn't supported
+- an apple silicon mac (m1 or newer). intel isn't supported.
 - macos 11 or later
 - your own openrouter api key if you want to make shorts. you paste it into
   settings; it stays on your machine and is never sent anywhere else.
