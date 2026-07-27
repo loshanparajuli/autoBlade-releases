@@ -11,7 +11,6 @@ it also turns the same footage into 9:16 shorts with burned-in captions.
 
 <img width="751" height="641" alt="image" src="https://github.com/user-attachments/assets/6eba20a0-e5d0-4351-9811-f76456c02e7f" />
 
-![autoblade](screenshot.png)
 <img width="1002" height="850" alt="image" src="https://github.com/user-attachments/assets/2f892f1c-fb2e-4da1-a705-5222e6520e94" />
 
 <img width="1007" height="845" alt="image" src="https://github.com/user-attachments/assets/e3e9ac5d-c08a-4355-a4b0-99afee58dce4" />
@@ -32,7 +31,9 @@ right-click trick, no privacy & security detour.
 - your own openrouter api key if you want to make shorts. you paste it into
   settings; it stays on your machine and is never sent anywhere else.
 
-everything else is bundled. no python, no ffmpeg, nothing to install. Tryly yours.
+everything else is bundled. no python, no ffmpeg, nothing to install.
+
+truly yours.
 
 ## updates
 
