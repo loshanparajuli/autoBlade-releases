@@ -16,6 +16,10 @@ it also turns the same footage into 9:16 shorts with burned-in captions.
 <img width="1007" height="845" alt="image" src="https://github.com/user-attachments/assets/e3e9ac5d-c08a-4355-a4b0-99afee58dce4" />
 
 
+## version 2.26
+
+A refreshed workspace with new artwork, compact audio controls, rounded Shorts controls, clearer recovery messages, and a first-run drag-and-drop hint. See the [v2.26 release notes](../../releases/tag/v2.26).
+
 ## download
 
 grab the `.dmg` from [the latest release](../../releases/latest), open it, drag
@@ -37,9 +41,7 @@ truly yours.
 
 ## updates
 
-the app checks this repo for new releases when it starts and shows a banner if
-there's one. it doesn't install anything by itself and you download the new dmg
-and replace the old app.
+the app checks this repo for new releases and shows a banner. after you choose to update, it verifies the signed download before replacing the app. you can also download the dmg and replace the app yourself.
 
 ## this repo
 
