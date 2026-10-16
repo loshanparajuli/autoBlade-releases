@@ -20,6 +20,8 @@ it also turns the same footage into 9:16 shorts with burned-in captions.
 
 A refreshed workspace with new artwork, compact audio controls, rounded Shorts controls, clearer recovery messages, and a first-run drag-and-drop hint. See the [v2.26 release notes](../../releases/tag/v2.26).
 
+The installer artwork was corrected on October 16, 2026. Re-download the DMG if your copy shows a plain white background. The app inside remains v2.26.
+
 ## download
 
 grab the `.dmg` from [the latest release](../../releases/latest), open it, drag
