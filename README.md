@@ -16,11 +16,11 @@ it also turns the same footage into 9:16 shorts with burned-in captions.
 <img width="1007" height="845" alt="image" src="https://github.com/user-attachments/assets/e3e9ac5d-c08a-4355-a4b0-99afee58dce4" />
 
 
-## version 2.26
+## version 2.26.1
 
-A refreshed workspace with new artwork, compact audio controls, rounded Shorts controls, clearer recovery messages, and a first-run drag-and-drop hint. See the [v2.26 release notes](../../releases/tag/v2.26).
+A clearer 15-second first-install camera guide with a video icon, evenly spaced outline, slower drag demonstrations and a gentle fade. Help text stays visible, and the shared rocket artwork sits slightly lower. The installer includes the finger-pointing artwork.
 
-The installer artwork was corrected on October 16, 2026. Re-download the DMG if your copy shows a plain white background. The app inside remains v2.26.
+See the [v2.26.1 release notes](../../releases/tag/v2.26.1).
 
 ## download
 
